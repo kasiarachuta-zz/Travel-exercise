@@ -1,6 +1,6 @@
 # Travel-exercise
 # Metadata<br>
-fields:<br>
+fields: <br>
     - messageid :   { type: string, comment: 'Unique ID for trip bundle'}<br>
     - tripindex :   { type: integer, comment: 'Within-bundle trip count, from 0'}<br>
     - received :    { type: date, format: epoch-seconds }<br>
