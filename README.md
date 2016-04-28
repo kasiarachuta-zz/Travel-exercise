@@ -1,5 +1,7 @@
 # Travel-exercise
 # Metadata<br>
+This is an exercise where I look at the data of flights of over 60 days and I look at the different prices based
+on a variety of metrics. <br>
 fields: <br>
     - messageid :   { type: string, comment: 'Unique ID for trip bundle'}<br>
     - tripindex :   { type: integer, comment: 'Within-bundle trip count, from 0'}<br>
